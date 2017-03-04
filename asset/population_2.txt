@@ -1,0 +1,3 @@
+location	population
+New York	8406000
+Toronto	2615000

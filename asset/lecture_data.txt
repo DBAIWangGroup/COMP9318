@@ -1,0 +1,49 @@
+location	time	item	dollars_sold
+Vancouver	Q1	home entertainment	605
+Vancouver	Q2	home entertainment	680
+Vancouver	Q3	home entertainment	812
+Vancouver	Q4	home entertainment	927
+New York	Q1	home entertainment	1087
+New York	Q2	home entertainment	1130
+New York	Q3	home entertainment	1034
+New York	Q4	home entertainment	1142
+Toronto	Q1	home entertainment	818
+Toronto	Q2	home entertainment	894
+Toronto	Q3	home entertainment	940
+Toronto	Q4	home entertainment	978
+Vancouver	Q1	computer	825
+Vancouver	Q2	computer	952
+Vancouver	Q3	computer	1023
+Vancouver	Q4	computer	1038
+New York	Q1	computer	968
+New York	Q2	computer	1024
+New York	Q3	computer	1048
+New York	Q4	computer	1091
+Toronto	Q1	computer	746
+Toronto	Q2	computer	769
+Toronto	Q3	computer	795
+Toronto	Q4	computer	864
+Vancouver	Q1	phone	14
+Vancouver	Q2	phone	31
+Vancouver	Q3	phone	30
+Vancouver	Q4	phone	38
+New York	Q1	phone	38
+New York	Q2	phone	41
+New York	Q3	phone	45
+New York	Q4	phone	54
+Toronto	Q1	phone	43
+Toronto	Q2	phone	52
+Toronto	Q3	phone	58
+Toronto	Q4	phone	59
+Vancouver	Q1	security	400
+Vancouver	Q2	security	512
+Vancouver	Q3	security	501
+Vancouver	Q4	security	580
+New York	Q1	security	872
+New York	Q2	security	925
+New York	Q3	security	1002
+New York	Q4	security	984
+Toronto	Q1	security	591
+Toronto	Q2	security	682
+Toronto	Q3	security	728
+Toronto	Q4	security	784

@@ -1,0 +1,4 @@
+location	population
+New York	8406000
+Vancouver	630500
+Sydney	4293000
