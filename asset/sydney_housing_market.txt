@@ -1,0 +1,41 @@
+suburb	council	type	distance_to_CBD	value	sold
+Turrella	Rockdale	house	9.9	$839,676 	17
+Sydenham	Marrickville	house	7.4	$845,771 	21
+St Peters	Marrickville	house	6.9	$920,169 	50
+Tempe	Marrickville	house	8.3	$921,390 	59
+Waterloo	Sydney	house	4.7	$937,316 	11
+Marrickville	Marrickville	house	7.5	$994,026 	191
+Erskineville	Sydney	house	5.2	$1,005,107 	84
+Mortlake	Canada Bay	house	9.2	$1,036,064 	15
+Newtown	Sydney	house	5.2	$1,044,330 	166
+Chippendale	Sydney	house	3.2	$1,060,415 	31
+Darlington	Sydney	house	3.8	$1,062,426 	32
+Hurlstone Park	Canterbury	house	9.1	$1,066,214 	36
+Stanmore	Marrickville	house	5.3	$1,070,242 	108
+Leichhardt	Leichhardt	house	5.2	$1,076,623 	225
+Enmore	Marrickville	house	5.7	$1,079,403 	58
+Summer Hill	Ashfield	house	7.3	$1,080,042 	49
+Eastlakes	Botany Bay	house	8.2	$1,090,744 	29
+Zetland	Sydney	house	5.6	$1,117,141 	10
+Petersham	Marrickville	house	6.1	$1,122,372 	82
+Ashfield	Ashfield	house	7.9	$1,123,787 	110
+Eastlakes	Botany Bay	unit	8.2	$484,487 	56
+Marrickville	Marrickville	unit	7.5	$552,713 	225
+Newtown	Sydney	unit	5.2	$559,175 	104
+Potts Point	Sydney	unit	2.3	$565,141 	217
+Lewisham	Marrickville	unit	6.7	$569,889 	20
+Gladesville	Ryde	unit	7.9	$572,923 	139
+Haberfield	Ashfield	unit	6.5	$573,347 	13
+Rushcutters Bay	Sydney	unit	2.9	$574,618 	78
+Ashfield	Ashfield	unit	7.9	$575,096 	228
+Centennial Park	Randwick	unit	5.2	$577,814 	53
+Hurlstone Park	Canterbury	unit	9.1	$593,081 	15
+Stanmore	Marrickville	unit	5.3	$594,654 	52
+Croydon	Burwood	unit	8.4	$605,927 	43
+Enmore	Marrickville	unit	5.7	$607,195 	15
+Petersham	Marrickville	unit	6.1	$610,890 	69
+Lane Cove North	Lane Cove	unit	7	$611,207 	220
+Elizabeth Bay	Sydney	unit	2.7	$615,967 	182
+Alexandria	Sydney	unit	5.7	$617,024 	211
+Dulwich Hill	Marrickville	unit	8	$622,141 	143
+Summer Hill	Ashfield	unit	7.3	$631,492 	88
