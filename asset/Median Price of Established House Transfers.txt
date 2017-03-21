@@ -1,0 +1,61 @@
+City	Quarter	Price
+Sydney	Q1	700.0
+Rest of NSW	Q1	370.0
+Melbourne	Q1	525.0
+Rest of Vic.	Q1	
+Brisbane	Q1	460.0
+Rest of Qld.	Q1	400.0
+Adelaide	Q1	415.0
+Rest of SA	Q1	265.0
+Perth	Q1	550.0
+Rest of WA	Q1	387.5
+Hobart	Q1	367.0
+Rest of Tas.	Q1	250.0
+Darwin	Q1	590.0
+Rest of NT	Q1	
+Canberra	Q1	555.0
+Sydney	Q2	750.0
+Rest of NSW	Q2	375.0
+Melbourne	Q2	555.5
+Rest of Vic.	Q2	295.0
+Brisbane	Q2	474.9
+Rest of Qld.	Q2	405.0
+Adelaide	Q2	
+Rest of SA	Q2	261.0
+Perth	Q2	540.0
+Rest of WA	Q2	377.0
+Hobart	Q2	345.0
+Rest of Tas.	Q2	240.0
+Darwin	Q2	
+Rest of NT	Q2	425.0
+Canberra	Q2	550.0
+Sydney	Q3	750.0
+Rest of NSW	Q3	373.0
+Melbourne	Q3	540.0
+Rest of Vic.	Q3	287.0
+Brisbane	Q3	471.0
+Rest of Qld.	Q3	400.0
+Adelaide	Q3	418.8
+Rest of SA	Q3	255.0
+Perth	Q3	550.0
+Rest of WA	Q3	380.0
+Hobart	Q3	
+Rest of Tas.	Q3	265.0
+Darwin	Q3	565.0
+Rest of NT	Q3	422.5
+Canberra	Q3	560.0
+Sydney	Q4	835.0
+Rest of NSW	Q4	385.0
+Melbourne	Q4	580.0
+Rest of Vic.	Q4	302.0
+Brisbane	Q4	
+Rest of Qld.	Q4	411.0
+Adelaide	Q4	427.5
+Rest of SA	Q4	275.0
+Perth	Q4	555.0
+Rest of WA	Q4	385.5
+Hobart	Q4	365.0
+Rest of Tas.	Q4	260.0
+Darwin	Q4	582.5
+Rest of NT	Q4	420.0
+Canberra	Q4	570.0
